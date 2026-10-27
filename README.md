@@ -202,6 +202,4 @@ Apache-2.0 — see [LICENSE](LICENSE)
 
 ## Credits
 
-Original design concept: [Gemini conversation](https://gemini.google.com/app/87adff8523f35dad)
-
 Developed with: OpenCode + OpenSpec spec-driven workflow
